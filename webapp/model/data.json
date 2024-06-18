@@ -1,0 +1,16 @@
+{
+    "modelData": [
+        {
+            "cc": "100",
+            "bare": "200",
+            "ss":"300"
+        }
+    ],
+    "ProductCollection": [
+        { "col1": "Infinia", "col2": "Carry Forward", "expense": "1,50,000", "earning": "","tbsl": "","earningLeftDurashine": "","earningLeftInfinia": "","remark": "" },     
+        { "col1": "", "col2": "PPA", "expense": "", "earning": "","tbsl": "2,50,000","earningLeftDurashine": "3,00,000","earningLeftInfinia": "","remark": "" }, 
+        { "col1": "Durashine", "col2": "Carry Forward", "expense": "", "earning": "1,80,000","tbsl": "","earningLeftDurashine": "","earningLeftInfinia": "","remark": "" },    
+        { "col1": "", "col2": "PPA", "expense": "", "earning": "","tbsl": "","earningLeftDurashine": "","earningLeftInfinia": "1,30,000","remark": "Ok" },                  
+        { "col1": "Total"}                   
+    ]
+}
