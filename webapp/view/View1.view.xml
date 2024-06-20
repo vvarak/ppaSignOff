@@ -21,7 +21,7 @@
                 rows="{/ProductCollection}"
                 selectionMode="None"
                 enableColumnFreeze="true"
-                class="sapUiMediumMargin"
+                class="sapUiSmallMargin"
                 ariaLabelledBy="title"
                
             >
@@ -49,7 +49,7 @@
                             />
                         </t:template>
                     </t:Column>
-                    <t:Column width="9.45rem">
+                    <t:Column width="11.45rem">
                         <Label text="" />
                         <t:template>
                             <Text
@@ -163,7 +163,7 @@
                 selectionMode="None"
                 rows="{/modelData}"
                 enableColumnFreeze="true"
-                class="sapUiMediumMargin"
+                class="sapUiSmallMargin"
             >
                 <t:rowMode>
                     <rowmodes:Fixed rowCount="1" />
@@ -345,7 +345,7 @@
                 selectionMode="None"
                 rows="{/modelData}"
                 enableColumnFreeze="true"
-                class="sapUiMediumMargin"
+                class="sapUiSmallMargin"
             >
                 <t:rowMode>
                     <rowmodes:Fixed rowCount="1" />
@@ -526,8 +526,7 @@
         <footer>
             <OverflowToolbar class="sapUiContentPadding">
                 <MessageStrip
-                    text="Please ensure to download the document, 
-                    review it thoroughly, sign it off, and then upload it back. Thank you!."
+                    text="Please ensure to download the document, sign and upload it back."
                     type="Information"
                     class="sapUiTinyMargin"
                     showIcon="true"
@@ -550,7 +549,7 @@
                     text="Download"
                     icon="sap-icon://download"
                     class="sapUiTinyMargin"
-                    press=".generatePDF"
+                    press="onDownloadPDF"
                 />
             </OverflowToolbar>
         </footer>

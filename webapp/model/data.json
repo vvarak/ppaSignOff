@@ -7,10 +7,10 @@
         }
     ],
     "ProductCollection": [
-        { "col1": "Infinia", "col2": "Carry Forward", "expense": "1,50,000", "earning": "","tbsl": "","earningLeftDurashine": "","earningLeftInfinia": "","remark": "" },     
-        { "col1": "", "col2": "PPA", "expense": "", "earning": "","tbsl": "2,50,000","earningLeftDurashine": "3,00,000","earningLeftInfinia": "","remark": "" }, 
-        { "col1": "Durashine", "col2": "Carry Forward", "expense": "", "earning": "1,80,000","tbsl": "","earningLeftDurashine": "","earningLeftInfinia": "","remark": "" },    
-        { "col1": "", "col2": "PPA", "expense": "", "earning": "","tbsl": "","earningLeftDurashine": "","earningLeftInfinia": "1,30,000","remark": "Ok" },                  
-        { "col1": "Total"}                   
+        { "col1": "Infinia", "col2": "Carry Forward", "expense": "1,00,000", "earning": "1,60,000","tbsl": "1,85,000","earningLeftDurashine": "1,50,000","earningLeftInfinia": "1,58,000","remark": "Ok" },     
+        { "col1": "", "col2": "PPA", "expense": "1,50,000", "earning": "1,50,000","tbsl": "2,50,000","earningLeftDurashine": "3,00,000","earningLeftInfinia": "1,50,000","remark": "Ok" }, 
+        { "col1": "Durashine", "col2": "Carry Forward", "expense": "1,55,000", "earning": "1,80,000","tbsl": "1,50,000","earningLeftDurashine": "3,50,000","earningLeftInfinia": "2,60,000","remark": "Ok" },    
+        { "col1": "", "col2": "PPA", "expense": "1,50,000", "earning": "1,50,000","tbsl": "1,59,000","earningLeftDurashine": "1,87,000","earningLeftInfinia": "1,30,000","remark": "Ok" },                  
+        { "col1": "Total","col2": "PPA","expense": "5,55,000","earning": "6,40,000","tbsl": "7,44,000","earningLeftDurashine": "11,74,000","earningLeftInfinia": "9,28,000","remark": "Ok"}                   
     ]
 }
